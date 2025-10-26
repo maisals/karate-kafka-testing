@@ -1,0 +1,6 @@
+com/mock/TodoMockServer.class
+com/mock/TodoMockServer$Todo.class
+com/example/karate/helpers/KafkaProducerHelper.class
+com/example/karate/helpers/KafkaConsumerHelper.class
+com/example/karate/KarateTestRunner.class
+com/example/karate/config/KarateConfig.class

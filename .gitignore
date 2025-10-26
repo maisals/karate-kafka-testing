@@ -1,0 +1,5 @@
+# Maven compiled files and directories
+target/
+
+# macOS files
+.DS_Store
